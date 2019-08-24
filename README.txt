@@ -1,5 +1,10 @@
 # AirTicketReservation
 class 12 project- based on turbo c++
+
+The Air Ticket Reservation also includes features like ticket cancelation, viewing the ticket which is more user friendly and simple to use.
+It involves graphics and mouse makes it easy to use.
+
+
 Acknowledgement
 I sincerely thank all those who helped me to make this project a success. I would like to thank our computer teachers Ms.Jeesha, Mr.Satish for their invaluable support to accomplish this project.
 I would also like to thank my teammate and all our friends for helping out with our project.
